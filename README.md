@@ -1,2 +1,8 @@
-# RPS
-simple rock paper scissors game
+# Rock Paper Scissors
+simple rock paper scissors Python game
+
+## Learning Points
+- Python
+- while loops
+- functions
+- if / else logic
